@@ -1,6 +1,9 @@
 # EEG2Scan: Experimental EEG Imaging System
 
-**EEG2Scan** is an experimental system that transforms EEG data into 3D brain activity scans using AI models. This tool is intended for research and experimental purposes only and should not be used for medical diagnosis or treatment.
+![EEG2Scan Visualization](eeg2scan.png)
+
+
+**EEG2Scan** is an experimental system that transforms EEG data into 3D brain activity scans using AI models. This tool is intended for research and experimental purposes only and should not be used for medical diagnosis or treatment. I bugged Claude AI until it became reality. I am not a expert at all. 
 
 # Installation
 
